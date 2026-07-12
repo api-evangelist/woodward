@@ -8,6 +8,8 @@ created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
 common:
+  - url: https://www.woodward.com/en/news
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/woodwardinc
 apis: []
