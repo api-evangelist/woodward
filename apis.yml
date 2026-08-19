@@ -17,7 +17,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/woodward.p
 description: 'Profile for Woodward in the API Evangelist network. Fortune F1000 (rank 803).'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - url: https://www.woodward.com/en/news
     type: Blog
